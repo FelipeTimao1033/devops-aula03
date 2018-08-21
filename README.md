@@ -1,6 +1,6 @@
 # FERRAMENTAS DE CONTROLE DE VERSÃO:
 
 *Mercurial
-*Github
+*Gitlab
 *subversion
 *cvs
